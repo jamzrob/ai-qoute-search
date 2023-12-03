@@ -28,7 +28,7 @@ OPENAI_API_KEY=
 UNSTRUCTURED_API_KEY=
 DATA_PATH=
 ```
-Each file in `DATA_PATH` should correspond to the name of the source with each qoute seperated with a --- as follows. See `sample_data` for examples`.
+Each file in `DATA_PATH` should correspond to the name of the source with each qoute seperated with a --- as follows. See `sample_data` for examples.
 ```
 This is a qoute
 ---
