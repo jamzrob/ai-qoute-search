@@ -1,7 +1,9 @@
-# README
+# AI Qoute Seach
 
-Query your saved highlights using AI!
+## Query your saved highlights using AI!
 
+
+## How to use
 1. Create `.env` file with api keys from [Open
 AI](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) and
 [Unstructured](https://unstructured.io/api-key) and the path of data to query
@@ -29,7 +31,7 @@ npm install
 node start "YOUR QUESTION"
 ```
 
-### Example run
+## Example 
 ```
 npm start "What is the best form of government?"
 ```
