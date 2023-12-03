@@ -1,6 +1,7 @@
 # AI Qoute Seach
 
 ## Query your saved highlights using AI!
+![demo](https://github.com/jamzrob/ai-qoute-search/assets/13103444/c1f5ba10-5a3e-42c4-b3bf-faccb4858019)
 
 
 ## How to use
