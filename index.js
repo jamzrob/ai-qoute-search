@@ -44,7 +44,8 @@ const loadStore = async () => {
 }
 
 const query = async () => {
-console.log(question);
+  console.clear()
+  console.log(`Question: ${question}\n`);
   const store = await loadStore()
   const results = await store.similaritySearch(question, 3)
 
@@ -72,6 +73,6 @@ console.log(question);
 
       
   
-  console.log(`\nAnswer:\n${answer}\n\nSources\n=================\n${qoutes}`)
+  console.log(`\nAnswer: ${answer}\n\nSources\n=================\n${qoutes}`)
 }
 query();

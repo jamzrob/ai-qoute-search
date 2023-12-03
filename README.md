@@ -42,6 +42,6 @@ npm install
 ```
 3. Run the program
 ```
-node index.js "YOUR QUESTION"
+node start "YOUR QUESTION"
 ```
 
